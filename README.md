@@ -4,5 +4,7 @@
 # SMPS devresinin özellikleri:
 
  Giriş voltajı: 85-264V AC 
+ 
  Çıkış Gücü:12W
+ 
  Çıkış Voltajı ve Akımı:12v 500mA / 5v 1A
