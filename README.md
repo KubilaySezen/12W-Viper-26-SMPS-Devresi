@@ -17,4 +17,4 @@
 ![pcb](https://user-images.githubusercontent.com/22753149/154750506-9e3789dd-1e37-44cb-908b-876e62eeb1b9.png)
 
 
-
+Kopya çektiğim ST nin referans tasarımı: https://www.st.com/resource/en/user_manual/um0984-stevalisa081v1-demonstration-board-based-on-a-12-v--1-a-isolated-flyback-stmicroelectronics.pdf
